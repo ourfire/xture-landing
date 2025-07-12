@@ -208,15 +208,15 @@ section {
 }
 
 .experiencia-card {
-    background: transparent;
-    padding: 2rem 0;
+    background: rgba(139, 69, 19, 0.02);
+    padding: 2rem;
     text-align: center;
-    border-bottom: 1px solid #e8e4e0;
+    border-radius: 8px;
     transition: all 0.3s ease;
 }
 
 .experiencia-card:hover {
-    border-bottom-color: #1e3a5f;
+    background: rgba(139, 69, 19, 0.05);
 }
 
 .experiencia-icon {
@@ -247,14 +247,14 @@ section {
 }
 
 .sede-card {
-    background: transparent;
-    border-bottom: 1px solid #e8e4e0;
-    padding: 3rem 0;
+    background: rgba(30, 58, 95, 0.02);
+    border-radius: 8px;
+    padding: 3rem 2rem;
     transition: all 0.3s ease;
 }
 
 .sede-card:hover {
-    border-bottom-color: #1e3a5f;
+    background: rgba(30, 58, 95, 0.05);
 }
 
 .sede-image {
@@ -362,14 +362,14 @@ section {
 }
 
 .testimonio-card {
-    background: transparent;
-    padding: 2rem 0;
-    border-bottom: 1px solid #e8e4e0;
+    background: rgba(139, 69, 19, 0.02);
+    padding: 2rem;
+    border-radius: 8px;
     transition: all 0.3s ease;
 }
 
 .testimonio-card:hover {
-    border-bottom-color: #1e3a5f;
+    background: rgba(139, 69, 19, 0.05);
 }
 
 .testimonio-content {
@@ -421,15 +421,15 @@ section {
 }
 
 .equipo-card {
-    background: transparent;
-    padding: 2rem 0;
+    background: rgba(30, 58, 95, 0.02);
+    padding: 2rem;
     text-align: center;
-    border-bottom: 1px solid #e8e4e0;
+    border-radius: 8px;
     transition: all 0.3s ease;
 }
 
 .equipo-card:hover {
-    border-bottom-color: #1e3a5f;
+    background: rgba(30, 58, 95, 0.05);
 }
 
 .equipo-avatar {
